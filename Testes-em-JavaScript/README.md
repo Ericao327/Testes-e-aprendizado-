@@ -95,8 +95,3 @@ node arrays.js
 - Datas e entrada de dados via terminal
 
 ---
-
-## 👨‍💻 Autor
-
-**Eric Medeiros**
-[github.com/Ericao327](https://github.com/Ericao327)

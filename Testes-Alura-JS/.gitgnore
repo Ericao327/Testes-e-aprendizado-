@@ -1,0 +1,89 @@
+# Node.js common ignores
+
+# Dependency directory
+node_modules/
+
+# Optional npm cache
+.npm
+.pnp/
+.pnp.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+*.seed
+
+# Test output / coverage
+coverage/
+.nyc_output/
+jest-test-results.json
+
+# Build / output
+dist/
+build/
+out/
+public/
+.next/        # Next.js build
+.next/cache
+/.vercel/     # Vercel build output
+/.netlify/    # Netlify build output
+
+# Parcel / Vite / bundlers
+.cache/
+.parcel-cache/
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# Compiled binary addons
+build/Release/
+
+# Bundled packages
+*.tgz
+
+# Environment variables (do not commit secrets)
+.env
+.env.*.local
+.env.local
+
+# Editor directories and OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+Thumbs.db
+
+# Misc / caches
+.cache-loader/
+.sass-cache/
+.tmp/
+.turbo/
+.storybook/
+.svelte-kit/
+
+# Package manager files you normally commit (do NOT ignore these):
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional files that can be safely ignored
+.eslintcache
+.node_repl_history
+*.sqlite
+*.sqlite3
+*.db
+bower_components/

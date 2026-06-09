@@ -1,11 +1,6 @@
 <div align="center">
 
-# 🐍 Condicionais em Python
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Alura](https://img.shields.io/badge/Alura-Curso-0098DA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDE2SDIwTDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![Exercícios](https://img.shields.io/badge/Exercícios-13-orange?style=for-the-badge)
+#  Condicionais em Python
 
 *Exercícios práticos de estruturas condicionais em Python, desenvolvidos durante o curso da Alura.*
 
@@ -290,12 +285,3 @@ python Teste1.py
 
 ---
 
-## 👤 Autor
-
-<div align="center">
-
-Feito com 💙 por **Eric**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ericao327-181717?style=for-the-badge&logo=github)](https://github.com/Ericao327)
-
-</div>

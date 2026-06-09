@@ -1,11 +1,6 @@
 <div align="center">
 
-# 🐍 Praticando Python: Laços `for` e `while`
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Alura](https://img.shields.io/badge/Alura-Curso-0095B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iIzAwOTVCNiIvPjwvc3ZnPg==&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-28a745?style=for-the-badge)
-![Licença](https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge)
+#  Praticando Python: Laços `for` e `while`
 
 <p>Repositório de exercícios práticos sobre laços de repetição em Python, desenvolvidos durante o curso da Alura.</p>
 
@@ -123,23 +118,6 @@ Funções-em-Python/
 
 ---
 
-## 🚀 Como Executar
-
-**Pré-requisitos:** Python 3.x instalado na máquina.
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/Ericao327/Testes-e-aprendizado-.git
-
-# 2. Acesse a pasta do projeto
-cd "Testes-e-aprendizado-/Funções-em-Python"
-
-# 3. Execute um dos arquivos
-python nome_do_arquivo.py
-```
-
----
-
 ## 🎓 Curso
 
 | | |
@@ -148,16 +126,6 @@ python nome_do_arquivo.py
 | **Curso** | [Praticando Python: laços for e while](https://cursos.alura.com.br/course/praticando-python-lacos-for-while) |
 | **Instrutor** | [André Santana](https://www.linkedin.com/in/almsantana/) |
 | **Escola** | Programação |
-| **Atividades** | 14 |
-| **Avaliação** | ⭐ 9,1 / 10 |
-
----
-
-## 👨‍💻 Autor
-
-Feito com 💙 por **Eric** — estudante em constante evolução.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ericao327-181717?style=flat-square&logo=github)](https://github.com/Ericao327)
 
 ---
 

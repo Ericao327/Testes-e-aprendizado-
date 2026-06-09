@@ -280,8 +280,6 @@ python Teste1.py
 | **Plataforma** | [Alura](https://www.alura.com.br) |
 | **Carga Horária** | 4 horas |
 | **Atividades** | 14 |
-| **Estudantes** | 5.463+ |
-| **Avaliação** | ⭐ 9,2 / 10 |
 
 ---
 

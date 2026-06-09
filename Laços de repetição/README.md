@@ -4,7 +4,7 @@
 
 <br/>
 
-> Repositório com os exercícios e atividades desenvolvidos durante o curso **Praticando Python: Funções** da [Alura](https://cursos.alura.com.br/course/praticando-python-funcoes).
+Repositório com os exercícios e atividades desenvolvidos durante o curso **Praticando Python: Funções** da [Alura](https://cursos.alura.com.br/course/praticando-python-funcoes).
 
 </div>
 

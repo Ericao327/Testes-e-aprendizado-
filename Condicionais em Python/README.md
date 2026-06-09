@@ -253,23 +253,6 @@ Condicionais em Python/
 
 ---
 
-## ▶️ Como Executar
-
-**Pré-requisito:** Python 3.x instalado.
-
-```bash
-# Clone o repositório
-git clone https://github.com/Ericao327/Testes-e-aprendizado-.git
-
-# Acesse a pasta
-cd "Testes-e-aprendizado-/Condicionais em Python"
-
-# Execute qualquer exercício
-python Teste1.py
-```
-
-> A maioria dos arquivos utiliza `input()` para receber dados do usuário durante a execução.
-
 ---
 
 ## 🎓 Sobre o Curso

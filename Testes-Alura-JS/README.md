@@ -24,14 +24,7 @@ Este repositório contém pequenos projetos, exercícios e tutoriais focados em 
 
 ## Instalação
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/Ericao327/Testes-Alura-JS.git
-cd Testes-Alura-JS
-```
-
-2. Instale as dependências:
+1. Instale as dependências:
 
 ```bash
 npm install

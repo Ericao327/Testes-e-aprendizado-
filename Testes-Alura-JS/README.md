@@ -24,7 +24,7 @@ Este repositório contém pequenos projetos, exercícios e tutoriais focados em 
 
 ## Instalação
 
-1. Instale as dependências:
+Instale as dependências:
 
 ```bash
 npm install

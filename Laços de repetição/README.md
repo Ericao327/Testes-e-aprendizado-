@@ -74,28 +74,6 @@ python --version
 
 ---
 
-## ▶️ Como Executar
-
-1. **Clone o repositório:**
-
-```bash
-git clone https://github.com/Ericao327/Testes-e-aprendizado-.git
-```
-
-2. **Acesse a pasta do projeto:**
-
-```bash
-cd "Testes-e-aprendizado-/Laços de repetição"
-```
-
-3. **Execute um arquivo Python:**
-
-```bash
-python nome_do_arquivo.py
-```
-
----
-
 ## 💡 Exemplos de Código
 
 ### Função personalizada

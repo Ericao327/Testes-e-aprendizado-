@@ -1,11 +1,6 @@
-# 🐍 Praticando Python: Funções
+#  Praticando Python: Funções
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Alura](https://img.shields.io/badge/Alura-Curso-0747a6?style=for-the-badge&logo=alura&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![Licença](https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge)
 
 <br/>
 
@@ -154,25 +149,5 @@ print(dobrar(5))  # Saída: 10
 | **Link**        | [Acessar curso](https://cursos.alura.com.br/course/praticando-python-funcoes) |
 | **Carga horária** | 4 horas                                                               |
 | **Atividades**  | 14 atividades                                                           |
-| **Avaliação**   | 9,2 / 10                                                                |
-| **Escola**      | Programação                                                             |
 
 ---
-
-## 👩‍🏫 Autora do Curso
-
-<div align="center">
-
-| [<img src="https://cdn2.gnarususercontent.com.br/1/1244760/cfdc5ab6-6585-4bf9-9e2d-d81a8171b89f.jpg" width="100px" style="border-radius:50%"/><br/><b>Laís Urano</b>](https://br.linkedin.com/in/la%C3%ADs-urano-9a41451b3) |
-|---|
-| Instrutora da Escola de Programação da Alura.<br/>Formada em Engenharia Elétrica pela UFPI.<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/la%C3%ADs-urano-9a41451b3) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/uranolais) |
-
-</div>
-
----
-
-<div align="center">
-
-Feito com 💙 por **Eric** durante os estudos na [Alura](https://www.alura.com.br)
-
-</div>

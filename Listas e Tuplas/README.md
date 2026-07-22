@@ -223,14 +223,3 @@ python Teste1.py
 4. Siga as instruções exibidas no console para interagir com o programa.
 
 ---
-
-## 🎓 Sobre o Curso
-
-| Campo | Informação |
-|-------|------------|
-| **Curso** | [Praticando Python: listas e tuplas](https://cursos.alura.com.br/course/praticando-python-listas-tuplas) |
-| **Plataforma** | [Alura](https://www.alura.com.br) |
-| **Carga Horária** | 4 horas |
-| **Atividades** | 14 |
-
----
